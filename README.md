@@ -6,4 +6,4 @@ A package that can transform features by scaling each feature to a given range. 
 
 * `input_list` A list.
 * `newmin` The minimum value of the new scale.
-* `maxmin` The maximum value of the new scale.
+* `newmax` The maximum value of the new scale.
